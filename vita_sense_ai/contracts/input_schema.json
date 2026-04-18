@@ -1,0 +1,14 @@
+{
+  "bed_id": "string",
+  "sensors": {
+    "pressure_matrix": "array",
+    "bcg_vibration": "number",
+    "is_edge_active": "boolean"
+  },
+  "clinical_monitor": {
+    "heart_rate": "number",
+    "resp_rate": "number",
+    "spo2": "number"
+  },
+  "timestamp": "string"
+}

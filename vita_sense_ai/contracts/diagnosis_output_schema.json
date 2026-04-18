@@ -1,0 +1,7 @@
+{
+  "alert_level": "low|medium|high|critical",
+  "event_type": "normal_movement|fall_risk|pressure_ulcer_risk|possible_false_alarm|needs_manual_review",
+  "clinical_rationale": "string",
+  "recommended_action": "monitor|verify_patient|reposition_patient|notify_staff",
+  "confidence": "number"
+}

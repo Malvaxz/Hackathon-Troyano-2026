@@ -1,0 +1,24 @@
+{
+  "bed_id": "string",
+  "timestamp": "string",
+
+  "vitals": {
+    "heart_rate": "number",
+    "resp_rate": "number",
+    "spo2": "number"
+  },
+
+  "movement": {
+    "movement_level": "number",
+    "movement_state": "string"
+  },
+
+  "pressure": {
+    "pressure_risk_score": "number",
+    "prolonged_static_pressure": "boolean"
+  },
+
+  "risk_flags": {
+    "edge_risk": "boolean"
+  }
+}

@@ -1,0 +1,9 @@
+# Gemini AI SDK (oficial)
+google-genai
+
+# Manejo de variables de entorno (.env)
+python-dotenv
+
+requests==2.31.0
+python-dotenv==1.0.1
+pymongo==4.6.3
